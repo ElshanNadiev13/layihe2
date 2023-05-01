@@ -1,0 +1,43 @@
+.item {
+    box-sizing: border-box;
+
+position: absolute;
+width: 336px;
+height: 397px;
+left: 408px;
+top: 232px;
+
+border: 1px solid #C4C4C4;
+border-radius: 10px;
+}
+.item1 {
+    position: absolute;
+width: 336px;
+height: 28px;
+left: 408px;
+top: 232px;
+
+background: #FFDC40;
+}
+.item3 {
+    position: absolute;
+width: 164px;
+height: 34px;
+left: 493px;
+top: 277px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+text-transform: capitalize;
+
+color: #000000;
+
+}
+.ttt {
+    Stroke: Solid
+    #C4C4C4
+}
